@@ -5,6 +5,10 @@
 #### Problem Statement:
 ## Sentiment Analysis of Covid-19 Tweets - Visualization Dashboard
 
+
+## Working of Application 
+###### Vedio Link: [Twitter Sentiment Analysis](https://www.youtube.com/watch?v=ogJoGAY_KV4&t=4s)
+ 
 #### So why do we want to focus on this topic?
 We all know that corona virus is spreading widely in the world, so in general, we would pay more attention to people’s physical health.  However, according to academic studies and news, people are faced with serious mental problems as well.
 As the examples shown here, suicide mortality is increasing in the US, nurse suicides rise in Europe, and suicide hotlines see a surprising increase in calls.  It’s obvious that mental health needs to be paid more attention now. So our group focuses on this topic, and this is realized by analyzing tweets on twitter.
@@ -45,4 +49,3 @@ From the first word cloud, we can see that positive tweets often contain positiv
 ###### Topic Modeling
 From selected  13 related activities topics, we calculated the average polarity of each topic, and here is the TreeMap. The area and color are determined by the polarity of each topic, which means the larger the area and the darker the color, the more positive the topics are.
 Therefore, activities at the top-left are the most positive ones. Like: watch videos, donate, communication though word and message.
-
